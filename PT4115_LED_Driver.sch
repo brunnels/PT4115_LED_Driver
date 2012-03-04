@@ -8,34 +8,34 @@
 </settings>
 <grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
-<layer number="1" name="Top" color="4" fill="1" visible="yes" active="no"/>
-<layer number="2" name="Route2" color="1" fill="3" visible="yes" active="no"/>
-<layer number="3" name="Route3" color="4" fill="3" visible="yes" active="no"/>
-<layer number="4" name="Route4" color="1" fill="4" visible="yes" active="no"/>
-<layer number="5" name="Route5" color="4" fill="4" visible="yes" active="no"/>
-<layer number="6" name="Route6" color="1" fill="8" visible="yes" active="no"/>
-<layer number="7" name="Route7" color="4" fill="8" visible="yes" active="no"/>
-<layer number="8" name="Route8" color="1" fill="2" visible="yes" active="no"/>
-<layer number="9" name="Route9" color="4" fill="2" visible="yes" active="no"/>
-<layer number="10" name="Route10" color="1" fill="7" visible="yes" active="no"/>
-<layer number="11" name="Route11" color="4" fill="7" visible="yes" active="no"/>
-<layer number="12" name="Route12" color="1" fill="5" visible="yes" active="no"/>
-<layer number="13" name="Route13" color="4" fill="5" visible="yes" active="no"/>
-<layer number="14" name="Route14" color="1" fill="6" visible="yes" active="no"/>
-<layer number="15" name="Route15" color="4" fill="6" visible="yes" active="no"/>
-<layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="no"/>
-<layer number="17" name="Pads" color="2" fill="1" visible="yes" active="no"/>
-<layer number="18" name="Vias" color="2" fill="1" visible="yes" active="no"/>
-<layer number="19" name="Unrouted" color="6" fill="1" visible="yes" active="no"/>
-<layer number="20" name="Dimension" color="15" fill="1" visible="yes" active="no"/>
-<layer number="21" name="tPlace" color="15" fill="1" visible="yes" active="no"/>
-<layer number="22" name="bPlace" color="7" fill="1" visible="yes" active="no"/>
-<layer number="23" name="tOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="24" name="bOrigins" color="15" fill="1" visible="yes" active="no"/>
-<layer number="25" name="tNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="26" name="bNames" color="7" fill="1" visible="yes" active="no"/>
-<layer number="27" name="tValues" color="7" fill="1" visible="yes" active="no"/>
-<layer number="28" name="bValues" color="7" fill="1" visible="yes" active="no"/>
+<layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
+<layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
+<layer number="3" name="Route3" color="4" fill="3" visible="no" active="no"/>
+<layer number="4" name="Route4" color="1" fill="4" visible="no" active="no"/>
+<layer number="5" name="Route5" color="4" fill="4" visible="no" active="no"/>
+<layer number="6" name="Route6" color="1" fill="8" visible="no" active="no"/>
+<layer number="7" name="Route7" color="4" fill="8" visible="no" active="no"/>
+<layer number="8" name="Route8" color="1" fill="2" visible="no" active="no"/>
+<layer number="9" name="Route9" color="4" fill="2" visible="no" active="no"/>
+<layer number="10" name="Route10" color="1" fill="7" visible="no" active="no"/>
+<layer number="11" name="Route11" color="4" fill="7" visible="no" active="no"/>
+<layer number="12" name="Route12" color="1" fill="5" visible="no" active="no"/>
+<layer number="13" name="Route13" color="4" fill="5" visible="no" active="no"/>
+<layer number="14" name="Route14" color="1" fill="6" visible="no" active="no"/>
+<layer number="15" name="Route15" color="4" fill="6" visible="no" active="no"/>
+<layer number="16" name="Bottom" color="1" fill="1" visible="no" active="no"/>
+<layer number="17" name="Pads" color="2" fill="1" visible="no" active="no"/>
+<layer number="18" name="Vias" color="2" fill="1" visible="no" active="no"/>
+<layer number="19" name="Unrouted" color="6" fill="1" visible="no" active="no"/>
+<layer number="20" name="Dimension" color="15" fill="1" visible="no" active="no"/>
+<layer number="21" name="tPlace" color="15" fill="1" visible="no" active="no"/>
+<layer number="22" name="bPlace" color="7" fill="1" visible="no" active="no"/>
+<layer number="23" name="tOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="24" name="bOrigins" color="15" fill="1" visible="no" active="no"/>
+<layer number="25" name="tNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="26" name="bNames" color="7" fill="1" visible="no" active="no"/>
+<layer number="27" name="tValues" color="7" fill="1" visible="no" active="no"/>
+<layer number="28" name="bValues" color="7" fill="1" visible="no" active="no"/>
 <layer number="29" name="tStop" color="7" fill="3" visible="no" active="no"/>
 <layer number="30" name="bStop" color="7" fill="6" visible="no" active="no"/>
 <layer number="31" name="tCream" color="7" fill="4" visible="no" active="no"/>
@@ -44,8 +44,8 @@
 <layer number="34" name="bFinish" color="6" fill="6" visible="no" active="no"/>
 <layer number="35" name="tGlue" color="7" fill="4" visible="no" active="no"/>
 <layer number="36" name="bGlue" color="7" fill="5" visible="no" active="no"/>
-<layer number="37" name="tTest" color="7" fill="1" visible="yes" active="no"/>
-<layer number="38" name="bTest" color="7" fill="1" visible="yes" active="no"/>
+<layer number="37" name="tTest" color="7" fill="1" visible="no" active="no"/>
+<layer number="38" name="bTest" color="7" fill="1" visible="no" active="no"/>
 <layer number="39" name="tKeepout" color="4" fill="11" visible="no" active="no"/>
 <layer number="40" name="bKeepout" color="1" fill="11" visible="no" active="no"/>
 <layer number="41" name="tRestrict" color="4" fill="10" visible="no" active="no"/>
@@ -53,16 +53,16 @@
 <layer number="43" name="vRestrict" color="2" fill="10" visible="no" active="no"/>
 <layer number="44" name="Drills" color="7" fill="1" visible="no" active="no"/>
 <layer number="45" name="Holes" color="7" fill="1" visible="no" active="no"/>
-<layer number="46" name="Milling" color="3" fill="1" visible="yes" active="no"/>
-<layer number="47" name="Measures" color="7" fill="1" visible="yes" active="no"/>
-<layer number="48" name="Document" color="7" fill="1" visible="yes" active="no"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="no"/>
-<layer number="50" name="dxf" color="7" fill="1" visible="yes" active="no"/>
-<layer number="51" name="tDocu" color="14" fill="1" visible="yes" active="no"/>
-<layer number="52" name="bDocu" color="14" fill="1" visible="yes" active="no"/>
-<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="yes" active="no"/>
-<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="yes" active="no"/>
-<layer number="56" name="wert" color="7" fill="1" visible="yes" active="no"/>
+<layer number="46" name="Milling" color="3" fill="1" visible="no" active="no"/>
+<layer number="47" name="Measures" color="7" fill="1" visible="no" active="no"/>
+<layer number="48" name="Document" color="7" fill="1" visible="no" active="no"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="no"/>
+<layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
+<layer number="51" name="tDocu" color="14" fill="1" visible="no" active="no"/>
+<layer number="52" name="bDocu" color="14" fill="1" visible="no" active="no"/>
+<layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
+<layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
+<layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
 <layer number="91" name="Nets" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="92" name="Busses" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="93" name="Pins" color="2" fill="1" visible="no" active="yes"/>
@@ -7941,6 +7941,55 @@ Cermet, abgedichtet nach IP67</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="frames">
+<description>&lt;b&gt;Frames for Sheet and Layout&lt;/b&gt;</description>
+<packages>
+</packages>
+<symbols>
+<symbol name="A3L-LOC">
+<wire x1="288.29" y1="3.81" x2="342.265" y2="3.81" width="0.1016" layer="94"/>
+<wire x1="342.265" y1="3.81" x2="373.38" y2="3.81" width="0.1016" layer="94"/>
+<wire x1="373.38" y1="3.81" x2="383.54" y2="3.81" width="0.1016" layer="94"/>
+<wire x1="383.54" y1="3.81" x2="383.54" y2="8.89" width="0.1016" layer="94"/>
+<wire x1="383.54" y1="8.89" x2="383.54" y2="13.97" width="0.1016" layer="94"/>
+<wire x1="383.54" y1="13.97" x2="383.54" y2="19.05" width="0.1016" layer="94"/>
+<wire x1="383.54" y1="19.05" x2="383.54" y2="24.13" width="0.1016" layer="94"/>
+<wire x1="288.29" y1="3.81" x2="288.29" y2="24.13" width="0.1016" layer="94"/>
+<wire x1="288.29" y1="24.13" x2="342.265" y2="24.13" width="0.1016" layer="94"/>
+<wire x1="342.265" y1="24.13" x2="383.54" y2="24.13" width="0.1016" layer="94"/>
+<wire x1="373.38" y1="3.81" x2="373.38" y2="8.89" width="0.1016" layer="94"/>
+<wire x1="373.38" y1="8.89" x2="383.54" y2="8.89" width="0.1016" layer="94"/>
+<wire x1="373.38" y1="8.89" x2="342.265" y2="8.89" width="0.1016" layer="94"/>
+<wire x1="342.265" y1="8.89" x2="342.265" y2="3.81" width="0.1016" layer="94"/>
+<wire x1="342.265" y1="8.89" x2="342.265" y2="13.97" width="0.1016" layer="94"/>
+<wire x1="342.265" y1="13.97" x2="383.54" y2="13.97" width="0.1016" layer="94"/>
+<wire x1="342.265" y1="13.97" x2="342.265" y2="19.05" width="0.1016" layer="94"/>
+<wire x1="342.265" y1="19.05" x2="383.54" y2="19.05" width="0.1016" layer="94"/>
+<wire x1="342.265" y1="19.05" x2="342.265" y2="24.13" width="0.1016" layer="94"/>
+<text x="344.17" y="15.24" size="2.54" layer="94" font="vector">&gt;DRAWING_NAME</text>
+<text x="344.17" y="10.16" size="2.286" layer="94" font="vector">&gt;LAST_DATE_TIME</text>
+<text x="357.505" y="5.08" size="2.54" layer="94" font="vector">&gt;SHEET</text>
+<text x="343.916" y="4.953" size="2.54" layer="94" font="vector">Sheet:</text>
+<frame x1="0" y1="0" x2="387.35" y2="260.35" columns="8" rows="5" layer="94"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="A3L-LOC" prefix="FRAME" uservalue="yes">
+<description>&lt;b&gt;FRAME&lt;/b&gt;&lt;p&gt;
+DIN A3, landscape with location and doc. field</description>
+<gates>
+<gate name="G$1" symbol="A3L-LOC" x="0" y="0"/>
+</gates>
+<devices>
+<device name="">
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -7971,7 +8020,7 @@ Cermet, abgedichtet nach IP67</description>
 <part name="VCC" library="SparkFun" deviceset="VCC" device=""/>
 <part name="I2C" library="SparkFun" deviceset="M04" device="POLAR" value="+ -"/>
 <part name="L1" library="rcl" deviceset="L-US" device="L4532P" value="47uH 1.2a"/>
-<part name="C7" library="SparkFun" deviceset="CAP" device="0603-CAP" value="0.1uF 6.3V"/>
+<part name="C7" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF 6.3V"/>
 <part name="R2" library="resistor" deviceset="R-TRIMM" device="3296W" value="1k"/>
 <part name="GND1" library="supply1" deviceset="GND" device=""/>
 <part name="GND3" library="supply1" deviceset="GND" device=""/>
@@ -7980,7 +8029,7 @@ Cermet, abgedichtet nach IP67</description>
 <part name="GND7" library="supply1" deviceset="GND" device=""/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
-<part name="C6" library="SparkFun" deviceset="CAP" device="0603-CAP" value="0.1uF 6.3V"/>
+<part name="C6" library="SparkFun" deviceset="CAP" device="0805" value="0.1uF 6.3V"/>
 <part name="LED2" library="SparkFun" deviceset="M02" device="3.5MM" value="- +"/>
 <part name="DRV1" library="1dah" deviceset="PT4115" device=""/>
 <part name="D1" library="1dah" deviceset="SCHOTTKY_DIODE" device="-SS18"/>
@@ -8038,10 +8087,23 @@ Cermet, abgedichtet nach IP67</description>
 <part name="VCC6" library="SparkFun" deviceset="VCC" device=""/>
 <part name="AD0" library="SparkFun" deviceset="JUMPER-3" device="SMD" value="+ -"/>
 <part name="AD1" library="SparkFun" deviceset="JUMPER-3" device="SMD" value="+ -"/>
+<part name="FRAME1" library="frames" deviceset="A3L-LOC" device="" value="Frame"/>
+<part name="GND5" library="supply1" deviceset="GND" device=""/>
+<part name="GND25" library="supply1" deviceset="GND" device=""/>
+<part name="GND26" library="supply1" deviceset="GND" device=""/>
+<part name="GND27" library="supply1" deviceset="GND" device=""/>
+<part name="GND28" library="supply1" deviceset="GND" device=""/>
+<part name="GND29" library="supply1" deviceset="GND" device=""/>
+<part name="GND30" library="supply1" deviceset="GND" device=""/>
+<part name="GND31" library="supply1" deviceset="GND" device=""/>
+<part name="GND32" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
+<text x="245.11" y="-88.9" size="2.54" layer="94" font="vector">v0.2</text>
+<text x="160.02" y="-89.44" size="1.778" layer="94" font="vector">I2C controlled LED driver</text>
+<text x="160.02" y="-69.12" size="1.778" layer="94" font="vector">https://github.com/brunnels/PT4115_LED_Driver</text>
 </plain>
 <instances>
 <instance part="IC1" gate="G$1" x="-12.7" y="53.34"/>
@@ -8055,10 +8117,10 @@ Cermet, abgedichtet nach IP67</description>
 <instance part="R1" gate="G$1" x="55.88" y="109.22" rot="R180"/>
 <instance part="A3" gate="G$1" x="-55.88" y="83.82" rot="R270"/>
 <instance part="A4" gate="G$1" x="-55.88" y="66.04" rot="R270"/>
-<instance part="A5" gate="G$1" x="-55.88" y="50.8" rot="R270"/>
+<instance part="A5" gate="G$1" x="-55.88" y="48.26" rot="R270"/>
 <instance part="A0" gate="G$1" x="-71.12" y="83.82" rot="R270"/>
 <instance part="A1" gate="G$1" x="-71.12" y="66.04" rot="R270"/>
-<instance part="A2" gate="G$1" x="-71.12" y="50.8" rot="R270"/>
+<instance part="A2" gate="G$1" x="-71.12" y="48.26" rot="R270"/>
 <instance part="GND2" gate="1" x="55.88" y="63.5"/>
 <instance part="GND4" gate="1" x="-73.66" y="25.4" rot="R270"/>
 <instance part="VCC" gate="1" x="-68.58" y="27.94"/>
@@ -8137,6 +8199,20 @@ Cermet, abgedichtet nach IP67</description>
 <instance part="VCC6" gate="1" x="134.62" y="22.86" rot="R90"/>
 <instance part="AD0" gate="G$1" x="-53.34" y="-25.4" rot="R270"/>
 <instance part="AD1" gate="G$1" x="-35.56" y="-25.4" rot="R270"/>
+<instance part="FRAME1" gate="G$1" x="-129.54" y="-93.98" smashed="yes">
+<attribute name="DRAWING_NAME" x="214.63" y="-78.74" size="2.54" layer="94" font="vector"/>
+<attribute name="LAST_DATE_TIME" x="214.63" y="-83.82" size="2.286" layer="94" font="vector"/>
+<attribute name="SHEET" x="227.965" y="-88.9" size="2.54" layer="94" font="vector"/>
+</instance>
+<instance part="GND5" gate="1" x="-76.2" y="76.2"/>
+<instance part="GND25" gate="1" x="-73.66" y="5.08" rot="R180"/>
+<instance part="GND26" gate="1" x="-76.2" y="58.42"/>
+<instance part="GND27" gate="1" x="-76.2" y="40.64"/>
+<instance part="GND28" gate="1" x="-60.96" y="40.64"/>
+<instance part="GND29" gate="1" x="-60.96" y="58.42"/>
+<instance part="GND30" gate="1" x="-60.96" y="76.2"/>
+<instance part="GND31" gate="1" x="-40.64" y="-33.02"/>
+<instance part="GND32" gate="1" x="-58.42" y="-33.02"/>
 </instances>
 <busses>
 </busses>
@@ -8165,47 +8241,6 @@ Cermet, abgedichtet nach IP67</description>
 <segment>
 <pinref part="C0" gate="G$1" pin="-"/>
 <pinref part="GND3" gate="1" pin="GND"/>
-</segment>
-<segment>
-<pinref part="IC2" gate="G$1" pin="GND"/>
-<pinref part="GND6" gate="1" pin="GND"/>
-<wire x1="-12.7" y1="-5.08" x2="-10.16" y2="-5.08" width="0.1524" layer="91"/>
-<wire x1="-10.16" y1="-5.08" x2="-10.16" y2="-7.62" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="C7" gate="G$1" pin="1"/>
-<pinref part="GND7" gate="1" pin="GND"/>
-<wire x1="0" y1="-7.62" x2="0" y2="-10.16" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="A0" gate="G$1" pin="3"/>
-<wire x1="-73.66" y1="78.74" x2="-76.2" y2="78.74" width="0.1524" layer="91"/>
-<label x="-78.74" y="78.74" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="A3" gate="G$1" pin="3"/>
-<wire x1="-58.42" y1="78.74" x2="-60.96" y2="78.74" width="0.1524" layer="91"/>
-<label x="-63.5" y="78.74" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="A1" gate="G$1" pin="3"/>
-<wire x1="-73.66" y1="60.96" x2="-76.2" y2="60.96" width="0.1524" layer="91"/>
-<label x="-78.74" y="60.96" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="A4" gate="G$1" pin="3"/>
-<wire x1="-58.42" y1="60.96" x2="-60.96" y2="60.96" width="0.1524" layer="91"/>
-<label x="-63.5" y="60.96" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="A2" gate="G$1" pin="3"/>
-<wire x1="-73.66" y1="45.72" x2="-76.2" y2="45.72" width="0.1524" layer="91"/>
-<label x="-78.74" y="45.72" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="A5" gate="G$1" pin="3"/>
-<wire x1="-58.42" y1="45.72" x2="-60.96" y2="45.72" width="0.1524" layer="91"/>
-<label x="-63.5" y="45.72" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="IC1" gate="G$1" pin="/OE"/>
@@ -8322,35 +8357,85 @@ Cermet, abgedichtet nach IP67</description>
 </segment>
 <segment>
 <pinref part="I2C" gate="G$1" pin="4"/>
+<pinref part="GND25" gate="1" pin="GND"/>
 <wire x1="-73.66" y1="-2.54" x2="-73.66" y2="2.54" width="0.1524" layer="91"/>
-<label x="-73.66" y="-2.54" size="1.778" layer="95" rot="R90"/>
 </segment>
 <segment>
 <pinref part="AD1" gate="G$1" pin="3"/>
-<wire x1="-38.1" y1="-30.48" x2="-43.18" y2="-30.48" width="0.1524" layer="91"/>
-<label x="-43.18" y="-30.48" size="1.778" layer="95"/>
+<pinref part="GND31" gate="1" pin="GND"/>
+<wire x1="-40.64" y1="-30.48" x2="-38.1" y2="-30.48" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="AD0" gate="G$1" pin="3"/>
-<wire x1="-55.88" y1="-30.48" x2="-60.96" y2="-30.48" width="0.1524" layer="91"/>
-<label x="-60.96" y="-30.48" size="1.778" layer="95"/>
+<pinref part="GND32" gate="1" pin="GND"/>
+<wire x1="-55.88" y1="-30.48" x2="-58.42" y2="-30.48" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="A2" gate="G$1" pin="3"/>
+<pinref part="GND27" gate="1" pin="GND"/>
+<wire x1="-73.66" y1="43.18" x2="-76.2" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="A5" gate="G$1" pin="3"/>
+<pinref part="GND28" gate="1" pin="GND"/>
+<wire x1="-58.42" y1="43.18" x2="-60.96" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="A4" gate="G$1" pin="3"/>
+<pinref part="GND29" gate="1" pin="GND"/>
+<wire x1="-58.42" y1="60.96" x2="-60.96" y2="60.96" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="A1" gate="G$1" pin="3"/>
+<pinref part="GND26" gate="1" pin="GND"/>
+<wire x1="-73.66" y1="60.96" x2="-76.2" y2="60.96" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="A3" gate="G$1" pin="3"/>
+<pinref part="GND30" gate="1" pin="GND"/>
+<wire x1="-58.42" y1="78.74" x2="-60.96" y2="78.74" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="A0" gate="G$1" pin="3"/>
+<pinref part="GND5" gate="1" pin="GND"/>
+<wire x1="-73.66" y1="78.74" x2="-76.2" y2="78.74" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="IC2" gate="G$1" pin="GND"/>
+<pinref part="GND6" gate="1" pin="GND"/>
+<wire x1="-12.7" y1="-5.08" x2="-10.16" y2="-5.08" width="0.1524" layer="91"/>
+<wire x1="-10.16" y1="-5.08" x2="-10.16" y2="-7.62" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="C7" gate="G$1" pin="1"/>
+<pinref part="GND7" gate="1" pin="GND"/>
+<wire x1="0" y1="-7.62" x2="0" y2="-10.16" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="5V" class="0">
 <segment>
+<pinref part="AD0" gate="G$1" pin="1"/>
+<wire x1="-55.88" y1="-25.4" x2="-60.96" y2="-25.4" width="0.1524" layer="91"/>
+<label x="-60.96" y="-25.4" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="AD1" gate="G$1" pin="1"/>
+<wire x1="-38.1" y1="-25.4" x2="-43.18" y2="-25.4" width="0.1524" layer="91"/>
+<label x="-43.18" y="-25.4" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="IC1" gate="G$1" pin="VDD"/>
+<wire x1="-12.7" y1="83.82" x2="-45.72" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="-45.72" y1="83.82" x2="-45.72" y2="76.2" width="0.1524" layer="91"/>
+<pinref part="C6" gate="G$1" pin="2"/>
+<wire x1="-45.72" y1="83.82" x2="-45.72" y2="88.9" width="0.1524" layer="91"/>
+<junction x="-45.72" y="83.82"/>
+<label x="-43.18" y="86.36" size="1.778" layer="95" rot="R90"/>
+</segment>
+<segment>
 <pinref part="A0" gate="G$1" pin="1"/>
 <wire x1="-73.66" y1="83.82" x2="-76.2" y2="83.82" width="0.1524" layer="91"/>
 <label x="-78.74" y="83.82" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="A1" gate="G$1" pin="1"/>
-<wire x1="-73.66" y1="66.04" x2="-76.2" y2="66.04" width="0.1524" layer="91"/>
-<label x="-78.74" y="66.04" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="A2" gate="G$1" pin="1"/>
-<wire x1="-73.66" y1="50.8" x2="-76.2" y2="50.8" width="0.1524" layer="91"/>
-<label x="-78.74" y="50.8" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="A3" gate="G$1" pin="1"/>
@@ -8363,42 +8448,33 @@ Cermet, abgedichtet nach IP67</description>
 <label x="-63.5" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="A5" gate="G$1" pin="1"/>
-<wire x1="-58.42" y1="50.8" x2="-60.96" y2="50.8" width="0.1524" layer="91"/>
-<label x="-63.5" y="50.8" size="1.778" layer="95"/>
+<pinref part="A1" gate="G$1" pin="1"/>
+<wire x1="-73.66" y1="66.04" x2="-76.2" y2="66.04" width="0.1524" layer="91"/>
+<label x="-78.74" y="66.04" size="1.778" layer="95"/>
 </segment>
 <segment>
-<pinref part="I2C" gate="G$1" pin="1"/>
-<wire x1="-66.04" y1="-2.54" x2="-66.04" y2="2.54" width="0.1524" layer="91"/>
-<label x="-66.04" y="-2.54" size="1.778" layer="95" rot="R90"/>
+<pinref part="A2" gate="G$1" pin="1"/>
+<wire x1="-73.66" y1="48.26" x2="-76.2" y2="48.26" width="0.1524" layer="91"/>
+<label x="-78.74" y="48.26" size="1.778" layer="95"/>
+</segment>
+<segment>
+<pinref part="A5" gate="G$1" pin="1"/>
+<wire x1="-58.42" y1="48.26" x2="-60.96" y2="48.26" width="0.1524" layer="91"/>
+<label x="-63.5" y="48.26" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="IC2" gate="G$1" pin="V+"/>
 <pinref part="C7" gate="G$1" pin="2"/>
 <wire x1="-12.7" y1="2.54" x2="0" y2="2.54" width="0.1524" layer="91"/>
 <wire x1="0" y1="2.54" x2="0" y2="0" width="0.1524" layer="91"/>
-<junction x="0" y="2.54"/>
 <wire x1="0" y1="2.54" x2="0" y2="7.62" width="0.1524" layer="91"/>
-<label x="0" y="7.62" size="1.778" layer="95" rot="R90"/>
+<junction x="0" y="2.54"/>
+<label x="-2.54" y="7.62" size="1.778" layer="95" rot="R270"/>
 </segment>
 <segment>
-<pinref part="IC1" gate="G$1" pin="VDD"/>
-<wire x1="-12.7" y1="83.82" x2="-45.72" y2="83.82" width="0.1524" layer="91"/>
-<wire x1="-45.72" y1="83.82" x2="-45.72" y2="76.2" width="0.1524" layer="91"/>
-<pinref part="C6" gate="G$1" pin="2"/>
-<wire x1="-45.72" y1="88.9" x2="-45.72" y2="83.82" width="0.1524" layer="91"/>
-<junction x="-45.72" y="83.82"/>
-<label x="-43.18" y="86.36" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="AD0" gate="G$1" pin="1"/>
-<wire x1="-55.88" y1="-25.4" x2="-60.96" y2="-25.4" width="0.1524" layer="91"/>
-<label x="-60.96" y="-25.4" size="1.778" layer="95"/>
-</segment>
-<segment>
-<pinref part="AD1" gate="G$1" pin="1"/>
-<wire x1="-38.1" y1="-25.4" x2="-43.18" y2="-25.4" width="0.1524" layer="91"/>
-<label x="-43.18" y="-25.4" size="1.778" layer="95"/>
+<pinref part="I2C" gate="G$1" pin="1"/>
+<wire x1="-66.04" y1="-2.54" x2="-66.04" y2="2.54" width="0.1524" layer="91"/>
+<label x="-66.04" y="-2.54" size="1.778" layer="95" rot="R90"/>
 </segment>
 </net>
 <net name="A0" class="0">
@@ -8427,8 +8503,8 @@ Cermet, abgedichtet nach IP67</description>
 </net>
 <net name="A2" class="0">
 <segment>
-<wire x1="-73.66" y1="48.26" x2="-76.2" y2="48.26" width="0.1524" layer="91"/>
-<label x="-78.74" y="48.26" size="1.778" layer="95"/>
+<wire x1="-73.66" y1="45.72" x2="-76.2" y2="45.72" width="0.1524" layer="91"/>
+<label x="-78.74" y="45.72" size="1.778" layer="95"/>
 <pinref part="A2" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -8463,8 +8539,8 @@ Cermet, abgedichtet nach IP67</description>
 </net>
 <net name="A5" class="0">
 <segment>
-<wire x1="-58.42" y1="48.26" x2="-60.96" y2="48.26" width="0.1524" layer="91"/>
-<label x="-63.5" y="48.26" size="1.778" layer="95"/>
+<wire x1="-58.42" y1="45.72" x2="-60.96" y2="45.72" width="0.1524" layer="91"/>
+<label x="-63.5" y="45.72" size="1.778" layer="95"/>
 <pinref part="A5" gate="G$1" pin="2"/>
 </segment>
 <segment>
@@ -8981,9 +9057,6 @@ Cermet, abgedichtet nach IP67</description>
 </nets>
 </sheet>
 </sheets>
-<errors>
-<approved hash="104,1,-12.7,83.82,IC1,VDD,5V,,,"/>
-</errors>
 </schematic>
 </drawing>
 </eagle>
