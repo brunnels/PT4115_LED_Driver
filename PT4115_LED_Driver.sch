@@ -10416,13 +10416,13 @@ SD Series, Vertical mount</description>
 <part name="GND31" library="supply1" deviceset="GND" device=""/>
 <part name="GND32" library="supply1" deviceset="GND" device=""/>
 <part name="R13" library="SparkFun" deviceset="RESISTOR" device="0603-RES" value="1k"/>
-<part name="ON" library="led" deviceset="LED" device="CHIPLED_0603" value="GREEN"/>
+<part name="ON" library="led" deviceset="LED" device="CHIPLED_0805" value="GREEN"/>
 <part name="GND33" library="supply1" deviceset="GND" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
-<text x="245.11" y="-88.9" size="2.54" layer="94" font="vector">v0.2</text>
+<text x="245.11" y="-88.9" size="2.54" layer="94" font="vector">v0.3</text>
 <text x="160.02" y="-89.44" size="1.778" layer="94" font="vector">I2C controlled LED driver</text>
 <text x="160.02" y="-69.12" size="1.778" layer="94" font="vector">https://github.com/brunnels/PT4115_LED_Driver</text>
 </plain>
